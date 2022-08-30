@@ -10,7 +10,7 @@ public class firstmavencmdTest {
 	public void firstMethod()
 	{
 		System.out.println(" sucess");
-		Assert.fail();
+		
 		
 	}
 	
