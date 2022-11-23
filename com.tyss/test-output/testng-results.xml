@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="122" started-at="2022-08-30T10:24:12 IST" finished-at="2022-08-30T10:24:12 IST">
+  <suite name="Default suite" duration-ms="281" started-at="2022-08-30T10:55:13 IST" finished-at="2022-08-30T10:55:13 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="122" started-at="2022-08-30T10:24:12 IST" finished-at="2022-08-30T10:24:12 IST">
+    <test name="Default test" duration-ms="281" started-at="2022-08-30T10:55:13 IST" finished-at="2022-08-30T10:55:13 IST">
       <class name="com.tyss.firstmavencmdTest">
-        <test-method status="PASS" signature="firstMethod()[pri:0, instance:com.tyss.firstmavencmdTest@3aeaafa6]" name="firstMethod" duration-ms="17" started-at="2022-08-30T10:24:12 IST" finished-at="2022-08-30T10:24:12 IST">
+        <test-method status="PASS" signature="firstMethod()[pri:0, instance:com.tyss.firstmavencmdTest@3aeaafa6]" name="firstMethod" duration-ms="44" started-at="2022-08-30T10:55:13 IST" finished-at="2022-08-30T10:55:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstMethod -->
-        <test-method status="PASS" signature="secondMethod()[pri:0, instance:com.tyss.firstmavencmdTest@3aeaafa6]" name="secondMethod" duration-ms="3" started-at="2022-08-30T10:24:12 IST" finished-at="2022-08-30T10:24:12 IST">
+        <test-method status="PASS" signature="secondMethod()[pri:0, instance:com.tyss.firstmavencmdTest@3aeaafa6]" name="secondMethod" duration-ms="14" started-at="2022-08-30T10:55:13 IST" finished-at="2022-08-30T10:55:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- secondMethod -->

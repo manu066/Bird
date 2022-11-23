@@ -7,7 +7,7 @@ public class firstmavencmdTest {
 
 	
 	@Test
-	public void firstMethod()
+	public void firstMethod()  
 	{
 		System.out.println(" sucess");
 		

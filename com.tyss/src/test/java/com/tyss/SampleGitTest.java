@@ -1,6 +1,6 @@
 package com.tyss;
 
-public class SampleGit {
+public class SampleGitTest {
 
 	public static void main(String[] args) {
 		

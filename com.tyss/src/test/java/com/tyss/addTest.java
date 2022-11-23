@@ -1,6 +1,6 @@
 package com.tyss;
 
-public class add {
+public class addTest {
 public static void main(String[] args) {
 	System.out.println("hi");
 }
